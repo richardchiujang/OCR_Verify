@@ -1,4 +1,4 @@
-REM Usage: test_run.bat dbn_model_path crnn_checkpoint by batch_run.py
+REM Usage: test_run.bat drc_checkpoint_path dbn_model_path crnn_checkpoint call from batch_run.py
 call C:\anaconda3\Scripts\activate.bat C:\anaconda3
 call conda activate hch_ocr
 cd C:\develop\hch_ocr
