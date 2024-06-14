@@ -1,0 +1,15 @@
+Font Size 6 – 字型大小 6
+Font Size 7 – 字型大小 7
+Font Size 8 – 字型大小 8
+Font Size 9 – 字型大小 9
+Font Size 10 – 字型大小 10
+Font Size 11 – 字型大小 11
+Font Size 12 – 字型大小 12
+Font Size 16 – 字型大小 16
+Font Size 20 – 字型大小 20
+Font Size 24 – 字型大小 24
+Font Size 36 – 字型大小 36
+Font Size 48 
+ 字型大小 48
+Font Size 72 
+字型大小 72

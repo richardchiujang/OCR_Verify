@@ -1,0 +1,11 @@
+水果 音樂 電腦 書籍 山脈 海洋 醫院 學校 電影 天空
+太陽 月亮 自行車 汽車 錢包 鑰匙 手機 鞋子 衣服 螢幕
+桌子 椅子 鋼筆 紙張 鬧鐘 香水 鉛筆 手表 眼鏡 咖啡
+茶葉 餅乾 麵包 牛奶 飯店 餐廳 博物館 圖書館 動物園 農場
+機場 火車站 地鐵站 公園 河流 橋樑 城市 村莊 社區 家庭
+
+apple music computer book mountain ocean hospital school movie sky
+sun moon bicycle car wallet key phone shoe clothes screen
+table chair pen paper clock perfume pencil watch glasses coffee
+tea cookie bread milk hotel restaurant museum library zoo farm
+airport train station subway park river bridge city village community family

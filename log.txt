@@ -1,0 +1,571 @@
+2024-06-13 18:04:12 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.41%
+2024-06-13 18:05:39 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e11_h0.5632183865379188_l0.8549629251162211.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 74.76%
+2024-06-13 18:07:08 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e12_h0.612531323854849_l0.8314414173364639.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.06%
+2024-06-13 18:08:31 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e14_h0.7422459843924701_l0.7988005305329958.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.06%
+2024-06-13 18:08:34 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e15_h0.7465042802580086_l0.7881366188327471.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 74.61%
+2024-06-13 18:10:28 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e17_h0.8038379481746118_l0.7766542037328085.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 74.61%
+2024-06-13 18:10:32 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e18_h0.8480261762574656_l0.7575072223941485.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.53%
+2024-06-13 18:12:31 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e1_h0.0_l3.6980468928813934.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 0%
+2024-06-13 18:13:28 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e22_h0.8499999950172873_l0.7443515857060751.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.46%
+2024-06-13 18:15:41 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e2_h0.0_l1.8973537882169087.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.46%
+2024-06-13 18:16:33 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e31_h0.8573965948792933_l0.7086678495009741.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.06%
+2024-06-13 18:18:47 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e33_h0.8686435281500872_l0.7011066352327665.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.01%
+2024-06-13 18:21:03 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e35_h0.8717690027178023_l0.6742178002993265.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.44%
+2024-06-13 18:23:20 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e37_h0.8815870997887996_l0.6733771488070488.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.68%
+2024-06-13 18:25:24 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e38_h0.8923380093007737_l0.6777276545763016.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 75.83%
+2024-06-13 18:27:41 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e39_h0.9006968591287478_l0.6645422851045927.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.43%
+2024-06-13 18:30:00 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e3_h0.0_l1.3098643571138382.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 58.45%
+2024-06-13 18:31:53 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e41_h0.8930369592738306_l0.6706113194425901.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.37%
+2024-06-13 18:34:12 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e44_h0.8973852934828156_l0.6516044040520986.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.53%
+********************************************************************************************************************************
+2024-06-13 18:36:32 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.53%
+********************************************************************************************************************************
+2024-06-13 18:36:36 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e4_h0.002264150920780349_l1.1358368694782257.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 74.12%
+2024-06-13 18:38:33 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e5_h0.36558481015504063_l1.0361650908986728.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 73.98%
+2024-06-13 18:40:02 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e6_h0.46924177028756636_l1.0048666124542553.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 73.6%
+2024-06-13 18:41:30 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e7_h0.5257985217898234_l0.9381855328877767.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 72.51%
+2024-06-13 18:42:57 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e9_h0.5394036167116314_l0.9224152018626531.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.43%
+2024-06-13 18:44:29 
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_latest.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.37%
+2024-06-13 19:01:49
+2024-06-13 19:02:21
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_102_acc_0.9867_0.000081000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 66.57%
+2024-06-13 19:05:19
+2024-06-13 19:07:14
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_102_acc_0.9867_0.000081000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 66.56%
+2024-06-13 19:09:02
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_103_acc_0.9425_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.71%
+2024-06-13 19:10:52
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_105_acc_0.9424_0.000024010.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.42%
+2024-06-13 19:12:14
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_106_acc_0.9421_0.000016807.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.85%
+2024-06-13 19:13:34
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_107_acc_0.9419_0.000016807.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.81%
+2024-06-13 19:14:53
+2024-06-13 19:23:28
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_102_acc_0.9867_0.000081000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 66.56%
+2024-06-13 19:25:03
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_103_acc_0.9425_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.71%
+2024-06-13 19:26:20
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_105_acc_0.9424_0.000024010.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.42%
+2024-06-13 19:27:38
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_106_acc_0.9421_0.000016807.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.85%
+2024-06-13 19:28:56
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_107_acc_0.9419_0.000016807.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.81%
+2024-06-13 19:30:15
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_108_acc_0.9422_0.000011765.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.11%
+2024-06-13 19:31:34
+2024-06-13 19:34:06
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_102_acc_0.9867_0.000081000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 66.56%
+2024-06-13 19:35:28
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_103_acc_0.9425_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.71%
+2024-06-13 19:36:48
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_105_acc_0.9424_0.000024010.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.42%
+2024-06-13 19:38:09
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_106_acc_0.9421_0.000016807.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.85%
+2024-06-13 19:39:29
+2024-06-13 19:42:58
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_106_acc_0.9421_0.000016807.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.85%
+2024-06-13 19:44:21
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_107_acc_0.9419_0.000016807.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.81%
+2024-06-13 19:45:38
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_108_acc_0.9422_0.000011765.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.11%
+2024-06-13 19:46:56
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_109_acc_0.9429_0.000011765.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.32%
+2024-06-13 19:48:13
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_110_acc_0.9423_0.000100000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.22%
+2024-06-13 19:49:31
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_111_acc_0.9480_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 75.51%
+2024-06-13 19:50:49
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_112_acc_0.9527_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 72.69%
+2024-06-13 19:52:07
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_113_acc_0.9552_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.41%
+2024-06-13 19:53:25
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_114_acc_0.9573_0.000049000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.33%  *****************************************************
+2024-06-13 19:54:44
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_115_acc_0.9535_0.000100000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 75.19%
+2024-06-13 19:56:02
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_122_acc_0.9860_0.000090000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.24%
+2024-06-13 19:57:21
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_12_acc_0.9021_0.000003430.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 61.53%
+2024-06-13 19:58:41
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_132_acc_0.9097_0.000210000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 69.69%
+2024-06-13 20:00:00
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_133_acc_0.9192_0.000035000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 70.18%
+2024-06-13 20:01:19
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_14_acc_0.8990_0.000100000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 64.50%
+2024-06-13 20:02:39
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_16_acc_0.9051_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 65.04%
+2024-06-13 20:03:59
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_1_acc_0.7363_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 50.92%
+2024-06-13 20:05:19
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_1_acc_0.7695_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 53.96%
+2024-06-13 20:06:38
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_23_acc_0.9077_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 68.01%
+2024-06-13 20:07:57
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_28_acc_0.9113_0.000024010.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 69.06%
+2024-06-13 20:09:17
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_34_acc_0.9109_0.000008235.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 67.49%
+2024-06-13 20:10:37
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_37_acc_0.9197_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 66.18%
+2024-06-13 20:11:57
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_40_acc_0.9199_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 66.12%
+2024-06-13 20:13:17
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_5_acc_0.8925_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 59.16%
+2024-06-13 20:14:55
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_6_acc_0.8976_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 59.16%
+2024-06-13 20:15:00
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_88_acc_0.9387_0.000006887.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 62.22%
+2024-06-13 20:16:19
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_89_acc_0.9353_0.000015000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 64.85%
+2024-06-13 20:17:49
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_89_acc_0.9937_0.000010000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 56.69%
+2024-06-13 20:19:07
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_91_acc_0.9222_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.61%
+2024-06-13 20:20:25
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_93_acc_0.9376_0.000003750.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 63.16%
+2024-06-13 20:21:44
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_94_acc_0.9003_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 74.64%
+2024-06-13 20:23:03
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.77% *****************************************  <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+2024-06-13 20:24:21
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_99_acc_0.9388_0.000070000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.88%
+2024-06-13 20:25:46
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_9_acc_0.9010_0.000007000.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 61.52%
+2024-06-13 20:27:05
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_latest.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 61.52%
+2024-06-13 20:31:08
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.77%
+2024-06-13 20:33:03
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e11_h0.5632183865379188_l0.8549629251162211.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.94%
+2024-06-13 20:35:10
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e12_h0.612531323854849_l0.8314414173364639.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.04%
+2024-06-13 20:37:14
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e14_h0.7422459843924701_l0.7988005305329958.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.62%
+2024-06-13 20:39:15
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e15_h0.7465042802580086_l0.7881366188327471.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.02%
+2024-06-13 20:41:08
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e17_h0.8038379481746118_l0.7766542037328085.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.54%
+2024-06-13 20:42:23
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e18_h0.8480261762574656_l0.7575072223941485.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.72%
+2024-06-13 20:43:41
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e1_h0.0_l3.6980468928813934.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 0%
+2024-06-13 20:44:18
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e22_h0.8499999950172873_l0.7443515857060751.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.67%
+2024-06-13 20:45:35
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e2_h0.0_l1.8973537882169087.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.67%
+2024-06-13 20:46:08
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e31_h0.8573965948792933_l0.7086678495009741.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.12%
+2024-06-13 20:47:26
+                     2024-06-13 20:52:25
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.77%
+2024-06-13 20:53:48
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e11_h0.5632183865379188_l0.8549629251162211.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.94%
+2024-06-13 20:55:05
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e12_h0.612531323854849_l0.8314414173364639.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.04%
+2024-06-13 20:56:21
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e14_h0.7422459843924701_l0.7988005305329958.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.62%
+2024-06-13 20:57:35
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e15_h0.7465042802580086_l0.7881366188327471.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.02%
+2024-06-13 20:58:52
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e17_h0.8038379481746118_l0.7766542037328085.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.02%
+2024-06-13 20:58:55
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e18_h0.8480261762574656_l0.7575072223941485.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.72%
+2024-06-13 21:00:12
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e1_h0.0_l3.6980468928813934.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 0%
+2024-06-13 21:00:47
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e22_h0.8499999950172873_l0.7443515857060751.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 0%
+2024-06-13 21:00:51
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e2_h0.0_l1.8973537882169087.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 0%
+2024-06-13 21:00:55
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e31_h0.8573965948792933_l0.7086678495009741.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.12%
+2024-06-13 21:02:11
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e33_h0.8686435281500872_l0.7011066352327665.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.83%
+2024-06-13 21:03:28
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e35_h0.8717690027178023_l0.6742178002993265.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.98%
+2024-06-13 21:04:46
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e37_h0.8815870997887996_l0.6733771488070488.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.75%
+2024-06-13 21:06:05
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e38_h0.8923380093007737_l0.6777276545763016.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.61%
+2024-06-13 21:07:38
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e39_h0.9006968591287478_l0.6645422851045927.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.71%
+2024-06-13 21:08:56
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e3_h0.0_l1.3098643571138382.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.71%
+2024-06-13 21:09:00
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e41_h0.8930369592738306_l0.6706113194425901.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.42%
+2024-06-13 21:10:18
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e44_h0.8973852934828156_l0.6516044040520986.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.45%
+**************************************************************** 目前最優
+2024-06-13 21:11:37
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.77%
+*************************************************************
+2024-06-13 21:12:57
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e4_h0.002264150920780349_l1.1358368694782257.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 77.11%
+2024-06-13 21:14:14
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e5_h0.36558481015504063_l1.0361650908986728.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 75.95%
+2024-06-13 21:15:31
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e6_h0.46924177028756636_l1.0048666124542553.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.39%
+2024-06-13 21:16:46
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e7_h0.5257985217898234_l0.9381855328877767.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 74.98%
+2024-06-13 21:18:01
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e9_h0.5394036167116314_l0.9224152018626531.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.31%
+2024-06-13 21:19:19
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_latest.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.66%
+****************************************************************  這是上一版的成績(優化前) 
+2024-06-13 21:25:17
+C:\develop\hch_ocr\weights\model_best_recall0940255_precision0967293_hmean0953583_train_loss0673593_best_model_epoch23.pth C:\develop\hch_ocr\weights\checkpoint_88_acc_0.9387_0.000006887.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 57.07%
+****************************************************************
+2024-06-13 21:39:08
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 57.07%
+2024-06-13 21:39:12
+2024-06-13 21:40:51
+C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 68.37%
+2024-06-13 21:42:32
+2024-06-13 21:42:45
+C:\develop\doc_rotate_classification\output\model 0.137891 0.964945.pth C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 68.37%
+2024-06-13 21:44:10
+2024-06-13 21:44:59
+C:\develop\doc_rotate_classification\output\model 0.137891 0.964945.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 68.37%
+2024-06-13 21:46:30
+C:\develop\doc_rotate_classification\output\model 0.233814 0.950827.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 76.41%
+2024-06-13 21:47:51
+C:\develop\doc_rotate_classification\output\model 1 0.032545 0.986994.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 75.14%
+2024-06-13 21:49:19
+C:\develop\doc_rotate_classification\output\model 2 0.033496 0.987549.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 73.78%
+2024-06-13 21:51:32
+C:\develop\doc_rotate_classification\output\model 2 0.161453 0.961452.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 75.75%
+2024-06-13 21:53:26
+C:\develop\doc_rotate_classification\output\model 3 0.034460 0.988770.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 73.19%
+2024-06-13 21:54:48
+C:\develop\doc_rotate_classification\output\model test phase   Loss 0.036655  Accuracy 0.988955_n4.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 71.07%
+2024-06-13 21:56:10
+C:\develop\doc_rotate_classification\output\model-Loss 0068Accuracy0981.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 56.05%
+2024-06-13 21:57:32
+C:\develop\doc_rotate_classification\output\model-testphaseLoss0066Accuracy0983.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 78.77%     <<<<<<<<<<<<<<<<<<<<<<<<----------------------------------------
+2024-06-13 21:59:23
+C:\develop\doc_rotate_classification\output\model-testphaseLoss0387Accuracy0936.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 65.07%
+2024-06-13 22:01:13
+C:\develop\doc_rotate_classification\output\model.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 73.19%
+2024-06-13 22:03:27
+C:\develop\doc_rotate_classification\output\model_validation Loss 0.03645 Accuracy 0.9927.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 75.63%
+2024-06-13 22:05:43
+C:\develop\doc_rotate_classification\output\model_validation Loss 0.04246 Accuracy 0.9921.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 75.63%
+2024-06-13 22:08:01
+C:\develop\doc_rotate_classification\output\model_validation_Loss_0p029478 _Accuracy_0p990996.pth
+ C:\develop\DBNet_pytorch_Wenmu\output\DBNet_resnet18_FPN_DBHead\checkpoint\model_best_e46_h0.9149915183758589_l0.6437240391969681.pth
+ C:\develop\CRNN_Chinese_Characters_Rec\output\360CC\checkpoints\checkpoint_96_acc_0.9420_0.000034300.pth
+
+總共比對 Target 檔案 139 個, 平均比對成功率為: 71.80%
